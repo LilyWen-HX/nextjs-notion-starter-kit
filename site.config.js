@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '学习网站',
+  name: '修行书房',
   domain: 'https://trusting-forsythia-a80.notion.site/300e7cb9f2c74444895458b568c516b5',
   author: 'WHY',
 
